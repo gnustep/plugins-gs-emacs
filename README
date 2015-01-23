@@ -1,0 +1,44 @@
+gs-emacs 0.1
+=============
+
+This package offers a simple menu and some features to GNUstep development
+environment. The menu has three entries:
+
+* App Project...:  Make a simple app project (this option is for beginners).
+* Tool Project...: Make a simple tool project (this option is for beginners).
+---------
+* Replace foreign characters: Replace some foreign character
+                              with it corresponding code.
+
+These commands can be executed with, respectively:
+
+    M-x make-app
+    M-x make-tool
+    M-x replace-foreign-characters
+
+And the following features:
+
+* Auto-complete for Objective-C.
+* Open a gorm/nib/xib file with Gorm when load the file in dired.
+
+If you have installed GNUstep with other layout than the default. Edit the
+gnustep.el file to set the variable gs-script to the GNUstep script path.
+
+
+AUTHOR
+======
+
+Germán A. Arias <germanandre@gmx.es>
+
+
+COPYING
+========
+
+This program is free software, released under GPLv3, or (at your option) any
+later version.
+
+
+BUGS
+=====
+
+Please mail them to <discuss-gnustep@gnu.org>

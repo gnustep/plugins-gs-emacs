@@ -1,0 +1,16 @@
+{
+  ApplicationName = [APP_NAME];
+  ApplicationDescription = "My first App!";
+  ApplicationRelease = "0.1";
+  NSBuildVersion = "January 2014";
+  Copyright = "Copyright (C) 2014";
+  CopyrightDescription = "Released under ...";
+  Authors = (
+    Author
+  );
+  URL = www.gnustep.org;
+  NSExecutable = [APP_NAME];
+  NSMainNibFile = [APP_NAME];
+  NSPrincipalClass = NSApplication;
+  NSRole = Application;
+}

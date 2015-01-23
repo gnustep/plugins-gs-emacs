@@ -1,0 +1,12 @@
+{
+    "fsn_info_type" = <*I0>;
+    geometry = "522 50 450 350 0 0  1280 1024 ";
+    lastselection = (
+	"/home/german/Escritorio/gs-emacs/Resources/App/interface.gorm"
+    );
+    shelfdicts = (
+    );
+    shelfheight = <*R77>;
+    singlenode = <*BN>;
+    viewtype = Browser;
+}
