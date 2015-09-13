@@ -1,3 +1,7 @@
+2015-09-13  Germán Arias <germanandre@gmx.es>
+
+	* gnustep.el: Fix a problem with function replace-foreign-characters.
+
 2015-01-22  Germán Arias <germanandre@gmx.es>
 
 	* Upload files to repository.
